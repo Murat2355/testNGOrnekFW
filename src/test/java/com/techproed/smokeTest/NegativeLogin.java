@@ -6,7 +6,7 @@ import com.techproed.utilities.Driver;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
-public class NegatıveLogın {
+public class NegativeLogin {
 
     @Test
     public void yanlisUserName(){
